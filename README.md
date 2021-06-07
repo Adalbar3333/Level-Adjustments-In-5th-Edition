@@ -12,6 +12,9 @@ Heres the [GM Binder](https://www.gmbinder.com/share/-MbFKFbZSNQFYdwzAbAz)
 
 ## Comming Soon! 
 Vampire
+
 Half-Dragon
+
 Half Giant
+
 Half Demon
